@@ -254,7 +254,7 @@
         width: 608px;
         border: 0px fluid;
         height: 405px;
-        background: url('img2.jpeg') center center no-repeat;
+        background: url('img2.jpg') center center no-repeat;
         background-size: cover; 
       }
 
@@ -264,7 +264,7 @@
         width: 512px;
         border: 0px fluid;
         height: 333px;
-        background: url('img3.jpeg') center center no-repeat;
+        background: url('img3.jpg') center center no-repeat;
         background-size: cover; 
       }
 
@@ -284,7 +284,7 @@
         width: 512px;
         border: 0px fluid;
         height: 333px;
-        background: url('img5.jpeg') center center no-repeat;
+        background: url('img5.jpg') center center no-repeat;
         background-size: cover; 
       }
 

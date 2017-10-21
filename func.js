@@ -135,7 +135,7 @@ function rand(max, min, _int) {
         $('.img'+counter).removeClass('opa')
         $('.img'+counter).addClass('pop')
         ++counter;
-      }, 75)
+      }, 750)
     }
 
     $(window).scroll(function(){
